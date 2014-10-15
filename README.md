@@ -1,4 +1,4 @@
 ProductImport
 =============
 
-导入产品
+参考案例：http://www.faisco.com/
